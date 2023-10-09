@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/https://linkedin.com/in/david-velez-b12016293/
+[linkedin]: https://linkedin.com/in/ https://linkedin.com/in/david-velez-b12016293/
