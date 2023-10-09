@@ -1,4 +1,4 @@
-<h1>Hi, I'm David, an <a href="https://linkedin.com/in/david-velez-b12016293/">IT Professional<
+<h1>Hi, I'm David, an <a href="https://linkedin.com/in/david-velez-b12016293/">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
