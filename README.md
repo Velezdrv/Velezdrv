@@ -1,6 +1,17 @@
 <h1>Welcome, My name is David, I am an <a href="https://linkedin.com/in/david-velez-b12016293/">IT Professional</h1>
 
-<h1 align="center">Career</h1>
+
+<h2 align="center">👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com//Velezdrv/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Velezdrv/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Velezdrv/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
+<h1 align="center">Summary</h1>
 
 The summary of my work and life journey is a testament to my diverse experiences and adaptability. I began my professional life as a Credit Manager at Rent-A-Center, where I honed my financial and customer service skills. Later, I transitioned to Vivint, where I worked as a Field Service Technician, gaining valuable hands-on experience in the field of home security and technology after a work related injury I was repositioned to Customer Loyalty where I learned the back end of the company and further expanded my customer relation skills and knowledge of sales force. 
 
@@ -12,15 +23,6 @@ My journey is a reflection of resilience and adaptability, balancing career purs
 
 Throughout my career, I've held managerial roles in several of my previous positions. Specifically, I've managed teams at McDonald's and Rent-A-Center, and I've also served as a Field Service Technician and Customer Loyalty Representative at Vivint. Over the years, I've consistently built upon my knowledge and skill sets, adapting them to various industries. Currently, I am eager to further broaden my horizons and venture into the field of Information Technology.
 
-<h2 align="center">👨‍💻 Information Technology Projects:</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com//Velezdrv/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Velezdrv/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Velezdrv/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
