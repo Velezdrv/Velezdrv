@@ -1,5 +1,37 @@
 <h1>Welcome, My name is David, I am an <a href="https://linkedin.com/in/david-velez-b12016293/">IT Professional</h1>
 
+<h1 align="center">Career</h1>
+
+- Parenting
+  * Full-time
+  * Career Break
+  * Oct 2022 - Present · 1 yr 2 mos
+
+- Vivint
+  * Full-time · 5 yrs
+  * Customer Loyalty Representative
+  * Nov 2021 - Oct 2022 · 1 yr
+  * Evans, Georgia, United States
+  * Field Service Technician
+  * Nov 2017 - Nov 2021 · 4 yrs 1 month
+  * Conway, South Carolina, United States
+  * Remote for both Postions
+
+- Rent-A-Center
+  * Credit Manager
+  * Full-time
+  * Dec 2012 - Nov 2017 · 5 yrs
+  * Conway, South Carolina, United States
+  * On-site
+
+- McDonald's 
+  * Shift Manager
+  * Full-time
+  * Jun 2008 - Dec 2012 · 4 yrs 7 mos
+  * Conway, South Carolina, United States
+  * On-site
+
+
 
 <h2 align="center">👨‍💻 Information Technology Projects:</h2>
 
