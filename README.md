@@ -41,7 +41,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Velezdrv/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Azure Portal Tutorial](https://github.com/Velezdrv/Azure-Portal-Tutorial)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+ 
 
 <h1 align="center">Summary</h1>
 
