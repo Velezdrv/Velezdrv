@@ -2,12 +2,12 @@
 
 <h1 align="center">Career</h1>
 
-- Parenting
+- <b>Parenting</b>
   * Full-time
   * Career Break
   * Oct 2022 - Present · 1 yr 2 mos
 
-- Vivint
+- <b>Vivint</b>
   * Full-time · 5 yrs
   * Customer Loyalty Representative
   * Nov 2021 - Oct 2022 · 1 yr
@@ -17,14 +17,14 @@
   * Conway, South Carolina, United States
   * Remote for both Postions
 
-- Rent-A-Center
+- <b>Rent-A-Center</b>
   * Credit Manager
   * Full-time
   * Dec 2012 - Nov 2017 · 5 yrs
   * Conway, South Carolina, United States
   * On-site
 
-- McDonald's 
+- <b>McDonald's,/b> 
   * Shift Manager
   * Full-time
   * Jun 2008 - Dec 2012 · 4 yrs 7 mos
