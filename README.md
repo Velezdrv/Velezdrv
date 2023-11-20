@@ -33,7 +33,7 @@
 
 
 
-<h2 align="center">👨‍💻 Information Technology Projects:</h2>
+<h1 align="center">👨‍💻 Information Technology Projects:</h1>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com//Velezdrv/osticket-prereqs)
