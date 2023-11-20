@@ -41,7 +41,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Velezdrv/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Azure Portal Tutorial](https://github.com/Velezdrv/Azure-Portal-Tutorial)
- 
+  - [Creating A Virtual Machine](https://github.com/Velezdrv/Creating-A-Virtual-Machine)
 
 <h1 align="center">Summary</h1>
 
