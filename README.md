@@ -24,7 +24,7 @@
   * Conway, South Carolina, United States
   * On-site
 
-- <b>McDonald's,/b> 
+- <b>McDonald's</b> 
   * Shift Manager
   * Full-time
   * Jun 2008 - Dec 2012 · 4 yrs 7 mos
